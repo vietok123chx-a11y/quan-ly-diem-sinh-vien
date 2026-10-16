@@ -94,4 +94,4 @@ plt.close(fig)
 # Thong tin nguoi thuc hien
 st.divider()
 st.write("Nguoi thuc hien: Tran Quoc Viet")
-st.write("Ma sinh vien: 58")
+st.write("Ma sinh vien: 054208009124")
